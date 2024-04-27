@@ -1,0 +1,3 @@
+Hello, This is a file uploaded with blob-curl.
+
+Its content lenght is 73.
